@@ -1,0 +1,27 @@
+@charset "UTF-8"; 
+
+body{ 
+    background-color: hsl(0, 56%, 71%);
+}
+
+.titulo{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+#image{
+    text-align: center;
+}
+
+.arroz{   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pag{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.titulo:hover{
+    color:crimson;
+}
